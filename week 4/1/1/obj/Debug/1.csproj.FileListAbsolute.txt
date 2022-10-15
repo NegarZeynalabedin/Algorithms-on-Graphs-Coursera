@@ -1,0 +1,6 @@
+C:\git\AD98992\coursera\on graph\4\1\1\bin\Debug\1.exe
+C:\git\AD98992\coursera\on graph\4\1\1\bin\Debug\1.pdb
+C:\git\AD98992\coursera\on graph\4\1\1\obj\Debug\1.csprojAssemblyReference.cache
+C:\git\AD98992\coursera\on graph\4\1\1\obj\Debug\1.csproj.CoreCompileInputs.cache
+C:\git\AD98992\coursera\on graph\4\1\1\obj\Debug\1.exe
+C:\git\AD98992\coursera\on graph\4\1\1\obj\Debug\1.pdb

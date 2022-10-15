@@ -1,0 +1,6 @@
+C:\git\AD98992\coursera\on graph\5\buidingRoads\buidingRoads\bin\Debug\buidingRoads.exe
+C:\git\AD98992\coursera\on graph\5\buidingRoads\buidingRoads\bin\Debug\buidingRoads.pdb
+C:\git\AD98992\coursera\on graph\5\buidingRoads\buidingRoads\obj\Debug\buidingRoads.csprojAssemblyReference.cache
+C:\git\AD98992\coursera\on graph\5\buidingRoads\buidingRoads\obj\Debug\buidingRoads.csproj.CoreCompileInputs.cache
+C:\git\AD98992\coursera\on graph\5\buidingRoads\buidingRoads\obj\Debug\buidingRoads.exe
+C:\git\AD98992\coursera\on graph\5\buidingRoads\buidingRoads\obj\Debug\buidingRoads.pdb
