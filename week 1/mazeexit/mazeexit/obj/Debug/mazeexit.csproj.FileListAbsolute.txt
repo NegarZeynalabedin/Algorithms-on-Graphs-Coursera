@@ -1,0 +1,6 @@
+C:\git\AD98992\coursera\on graph\mazeexit\mazeexit\bin\Debug\mazeexit.exe
+C:\git\AD98992\coursera\on graph\mazeexit\mazeexit\bin\Debug\mazeexit.pdb
+C:\git\AD98992\coursera\on graph\mazeexit\mazeexit\obj\Debug\mazeexit.csprojAssemblyReference.cache
+C:\git\AD98992\coursera\on graph\mazeexit\mazeexit\obj\Debug\mazeexit.csproj.CoreCompileInputs.cache
+C:\git\AD98992\coursera\on graph\mazeexit\mazeexit\obj\Debug\mazeexit.exe
+C:\git\AD98992\coursera\on graph\mazeexit\mazeexit\obj\Debug\mazeexit.pdb

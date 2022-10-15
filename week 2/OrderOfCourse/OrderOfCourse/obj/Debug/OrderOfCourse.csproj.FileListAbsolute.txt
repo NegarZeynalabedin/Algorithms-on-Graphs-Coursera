@@ -1,0 +1,6 @@
+C:\git\AD98992\coursera\on graph\OrderOfCourse\OrderOfCourse\bin\Debug\OrderOfCourse.exe
+C:\git\AD98992\coursera\on graph\OrderOfCourse\OrderOfCourse\bin\Debug\OrderOfCourse.pdb
+C:\git\AD98992\coursera\on graph\OrderOfCourse\OrderOfCourse\obj\Debug\OrderOfCourse.csprojAssemblyReference.cache
+C:\git\AD98992\coursera\on graph\OrderOfCourse\OrderOfCourse\obj\Debug\OrderOfCourse.csproj.CoreCompileInputs.cache
+C:\git\AD98992\coursera\on graph\OrderOfCourse\OrderOfCourse\obj\Debug\OrderOfCourse.exe
+C:\git\AD98992\coursera\on graph\OrderOfCourse\OrderOfCourse\obj\Debug\OrderOfCourse.pdb

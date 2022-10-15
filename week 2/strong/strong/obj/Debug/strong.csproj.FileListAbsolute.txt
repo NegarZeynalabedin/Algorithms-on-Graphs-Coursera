@@ -1,0 +1,6 @@
+C:\git\AD98992\coursera\on graph\strong\strong\bin\Debug\strong.exe
+C:\git\AD98992\coursera\on graph\strong\strong\bin\Debug\strong.pdb
+C:\git\AD98992\coursera\on graph\strong\strong\obj\Debug\strong.csprojAssemblyReference.cache
+C:\git\AD98992\coursera\on graph\strong\strong\obj\Debug\strong.csproj.CoreCompileInputs.cache
+C:\git\AD98992\coursera\on graph\strong\strong\obj\Debug\strong.exe
+C:\git\AD98992\coursera\on graph\strong\strong\obj\Debug\strong.pdb

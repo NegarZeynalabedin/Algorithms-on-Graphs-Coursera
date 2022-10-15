@@ -1,0 +1,6 @@
+C:\git\AD98992\coursera\on graph\addExitToMaze\addExitToMaze\bin\Debug\addExitToMaze.exe
+C:\git\AD98992\coursera\on graph\addExitToMaze\addExitToMaze\bin\Debug\addExitToMaze.pdb
+C:\git\AD98992\coursera\on graph\addExitToMaze\addExitToMaze\obj\Debug\addExitToMaze.csprojAssemblyReference.cache
+C:\git\AD98992\coursera\on graph\addExitToMaze\addExitToMaze\obj\Debug\addExitToMaze.csproj.CoreCompileInputs.cache
+C:\git\AD98992\coursera\on graph\addExitToMaze\addExitToMaze\obj\Debug\addExitToMaze.exe
+C:\git\AD98992\coursera\on graph\addExitToMaze\addExitToMaze\obj\Debug\addExitToMaze.pdb
